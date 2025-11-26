@@ -143,7 +143,7 @@ npm test
 ### 2. Compare Tab
 - Compare routes against baseline
 - Visual chart showing GHG intensity comparison
-- Compliance status (✅/❌) based on target intensity (89.3368 gCO₂e/MJ)
+- Compliance status (Compliant/non Compliant) based on target intensity (89.3368 gCO₂e/MJ)
 
 ### 3. Banking Tab
 - View current compliance balance (CB)
