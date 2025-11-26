@@ -11,12 +11,12 @@ This project follows **Hexagonal Architecture (Ports & Adapters)** principles:
 backend/src/
   core/
     domain/          # Domain entities and business logic
-    application/      # Use cases (business logic orchestration)
+    application/     # Use cases (business logic orchestration)
     ports/
       inbound/       # Service interfaces (ports)
   adapters/
     inbound/http/    # HTTP controllers (Express routes)
-    outbound/postgres/ # Database repositories (Prisma)
+    outbound/postgres/# Database repositories (Prisma)
   infrastructure/
     db/              # Database client and seeds
     server/          # Server setup
