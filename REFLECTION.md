@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project represents my first comprehensive use of AI agents (specifically Cursor Agent/Claude Code) for building a full-stack application from scratch. The experience has been both enlightening and educational, revealing both the strengths and limitations of AI-assisted development.
+In this project i used an AI agents (specifically Cursor Agent/Claude Code) for building a full-stack application from scratch. The experience has been both enlightening and educational, revealing both the strengths and limitations of AI-assisted development.
 
 ## What I Learned
 
